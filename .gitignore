@@ -3,3 +3,4 @@ studysession/
 venv/
 
 .DS_Store
+DelayedFlights.csv
