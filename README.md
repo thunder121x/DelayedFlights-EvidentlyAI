@@ -64,12 +64,13 @@ Once the script finishes, open DelayedFlights_model_quality_report.html in your 
 
 ---
 
-🧠 Key Insights (Example)
+🧠 Key Insights
 
 View the Evidently report to analyze:
 	•	Prediction accuracy (MAE, RMSE, R²)
 	•	How current data differs from reference
 	•	Whether a new model is needed
+
 
 📁 Files Included
 	•	DelayedFlights.csv (dataset – must be downloaded separately)
@@ -78,11 +79,13 @@ View the Evidently report to analyze:
 	•	DelayedFlights_model_quality_report.html (output report)
 	•	README.md
 
+
 🧑‍💻 Author
 
 Nanphat Tongsirisukool
-📧 [optional GitHub/email]
+
 
 🙏 Acknowledgments
 	•	Dataset: Airline Delay Causes – Kaggle
 	•	Powered by EvidentlyAI
+
