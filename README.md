@@ -67,17 +67,17 @@ Once the script finishes, open DelayedFlights_model_quality_report.html in your 
 🧠 Key Insights
 
 View the Evidently report to analyze:
-	•	Prediction accuracy (MAE, RMSE, R²)
-	•	How current data differs from reference
-	•	Whether a new model is needed
+- Prediction accuracy (MAE, RMSE, R²)
+- How current data differs from reference
+- Whether a new model is needed
 
 
 📁 Files Included
-	•	DelayedFlights.csv (dataset – must be downloaded separately)
-	•	main.py (Python script for running analysis)
-	•	requirements.txt
-	•	DelayedFlights_model_quality_report.html (output report)
-	•	README.md
+- DelayedFlights.csv (dataset – must be downloaded separately)
+- main.py (Python script for running analysis)
+- requirements.txt
+- DelayedFlights_model_quality_report.html (output report)
+- README.md
 
 
 🧑‍💻 Author
