@@ -62,7 +62,7 @@ python main.py
 
 Once the script finishes, open DelayedFlights_model_quality_report.html in your browser to explore the results.
 
-⸻
+---
 
 🧠 Key Insights (Example)
 
@@ -71,8 +71,6 @@ View the Evidently report to analyze:
 	•	How current data differs from reference
 	•	Whether a new model is needed
 
-⸻
-
 📁 Files Included
 	•	DelayedFlights.csv (dataset – must be downloaded separately)
 	•	main.py (Python script for running analysis)
@@ -80,17 +78,11 @@ View the Evidently report to analyze:
 	•	DelayedFlights_model_quality_report.html (output report)
 	•	README.md
 
-⸻
-
 🧑‍💻 Author
 
 Nanphat Tongsirisukool
 📧 [optional GitHub/email]
 
-⸻
-
 🙏 Acknowledgments
 	•	Dataset: Airline Delay Causes – Kaggle
 	•	Powered by EvidentlyAI
-
----
