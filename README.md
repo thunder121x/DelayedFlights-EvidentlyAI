@@ -82,10 +82,10 @@ View the Evidently report to analyze:
 
 🧑‍💻 Author
 
-Nanphat Tongsirisukool
+- Nanphat Tongsirisukool
 
 
 🙏 Acknowledgments
-	•	Dataset: Airline Delay Causes – Kaggle
-	•	Powered by EvidentlyAI
+- Dataset: Airline Delay Causes – Kaggle
+- Powered by EvidentlyAI
 
